@@ -10,7 +10,7 @@ Available for freelance work in ML development, data pipelines, and backend syst
 
 ## Technical Expertise
 
-| Domain | Stack |
+| Domain | Stack |a
 |--------|-------|
 | **Machine Learning** | PyTorch, scikit-learn, EfficientNet, ResNet, DenseNet, CBAM/SE Attention |
 | **Computer Vision** | CNNs, Ensemble Models, Grad-CAM Explainability, Medical Imaging |
@@ -58,4 +58,4 @@ Available for freelance work in ML development, data pipelines, and backend syst
 
 Open to freelance projects involving ML model development, computer vision, data analysis pipelines, and backend systems.
 
-📧 Lemontree7981@gmail.com · 💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sabeeh-ahmad-540655315?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+📧 [Lemontree7981@gmail.com](mailto:Lemontree7981@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/sabeeh-ahmad-540655315)
