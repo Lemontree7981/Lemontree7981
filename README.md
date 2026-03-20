@@ -58,4 +58,4 @@ Available for freelance work in ML development, data pipelines, and backend syst
 
 Open to freelance projects involving ML model development, computer vision, data analysis pipelines, and backend systems.
 
-📧 your@email.com · 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+📧 Lemontree7981@gmail.com · 💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sabeeh-ahmad-540655315?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
