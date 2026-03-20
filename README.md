@@ -1,92 +1,61 @@
-## Hi there 👋
-<div align="center">
+# Sabeeh — Machine Learning & Backend Engineer
 
-# Hey, I'm Sabeeh 👋
+**Scalable AI Systems · Medical Imaging · Production Deployments**
 
-**CS Student · ML Enthusiast · Linux Nerd**
+I build end-to-end ML pipelines — from model architecture to cloud deployment. My focus is on high-performance computer vision systems and robust backend infrastructure that ships to production.
 
-*Building things that actually work — from low-level C to production ML pipelines*
-
-</div>
+Available for freelance work in ML development, data pipelines, and backend systems.
 
 ---
 
-### 🧠 About Me
+## Technical Expertise
 
-I'm a Computer Science student at Dayananda Sagar College of Engineering, Bangalore. I enjoy working across the full stack of a project — from writing efficient C/C++ to deploying ML models on the cloud.
-
-- 🔬 Currently building ML systems for medical image classification
-- 🐧 Daily-driving **Fedora Linux** (KDE) — I configure everything from scratch
-- 📊 Strong interest in **data analysis** and making sense of messy datasets
-- 🏆 Competed in Codethon with a breast cancer detection ensemble model (EfficientNet + ResNet + DenseNet)
-- 📖 Working through Andrew Ng's ML Specialization
-
----
-
-### 🛠️ Tech Stack
-
-**Languages**
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
-**ML / Data**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-**Tools & Platforms**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+| Domain | Stack |
+|--------|-------|
+| **Machine Learning** | PyTorch, scikit-learn, EfficientNet, ResNet, DenseNet, CBAM/SE Attention |
+| **Computer Vision** | CNNs, Ensemble Models, Grad-CAM Explainability, Medical Imaging |
+| **Data Engineering** | Pandas, NumPy, SQL, Pipeline Optimization |
+| **Backend & APIs** | Python, Flask, REST API Design, C/C++ |
+| **Cloud & DevOps** | Google Cloud Platform, Cloud Run, Docker, Git |
+| **Systems** | Linux, Shell Scripting, Bash Automation |
 
 ---
 
-### 🚀 Featured Projects
+## Projects
 
-#### 🩺 Breast Cancer Detection System
-> Ensemble of EfficientNetB4 + ResNet152 + DenseNet201 with CBAM/SE attention mechanisms  
-> Trained on MIAS and INbreast datasets · Targeting 97.59% benchmark from Luong et al. (2025)  
-> `PyTorch` `EfficientNet` `Attention Mechanisms` `Medical Imaging`
+### 🩺 Breast Cancer Detection System
+**Problem:** High false-negative rates in early-stage mammography screening.  
+**Solution:** Ensemble model combining EfficientNetB4, ResNet152, and DenseNet201 with CBAM and SE attention mechanisms trained on MIAS and INbreast datasets.  
+**Result:** Targeting state-of-the-art 97.59% diagnostic accuracy (Luong et al., 2025 benchmark).
 
-#### 🔬 BioSense
-> Medical image classification pipeline with Grad-CAM explainability  
-> Deployed via Flask REST API on Google Cloud Run  
-> `Flask` `GCP` `Docker` `Grad-CAM` `Image Classification`
+`PyTorch` `Ensemble Learning` `Attention Mechanisms` `Medical AI` `Computer Vision`
 
 ---
 
-### 📈 GitHub Stats
+### 🔬 BioSense — AI Diagnostics API
+**Solution:** End-to-end medical image classification pipeline with Grad-CAM explainability for model transparency.  
+**Implementation:** Containerized with Docker, deployed on GCP Cloud Run — scalable, low-latency inference via REST API.
 
-<div align="center">
-
-![Sabeeh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lemontree7981&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lemontree7981&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+`Flask` `Docker` `GCP Cloud Run` `Grad-CAM` `Model Explainability`
 
 ---
 
-### 📫 Let's Connect
+### ♻️ FoodLoop — Sustainability Platform
+**Solution:** Logistics platform connecting food industry surplus with NGOs to reduce waste at scale.
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-
-</div>
+`Systems Design` `JavaScript` `Social Impact`
 
 ---
 
-<div align="center">
-<sub>⚡ Always curious. Always building.</sub>
-</div>
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Lemontree7981&show_icons=true&theme=dark&hide_border=true&hide_title=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lemontree7981&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## Let's Work Together
+
+Open to freelance projects involving ML model development, computer vision, data analysis pipelines, and backend systems.
+
+📧 your@email.com · 💼 [LinkedIn](https://linkedin.com/in/your-profile)
