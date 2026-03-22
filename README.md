@@ -10,7 +10,7 @@ Available for freelance work in ML development, data pipelines, and backend syst
 
 ## Technical Expertise
 
-| Domain | Stack |a
+| Domain | Stack |
 |--------|-------|
 | **Machine Learning** | PyTorch, scikit-learn, EfficientNet, ResNet, DenseNet, CBAM/SE Attention |
 | **Computer Vision** | CNNs, Ensemble Models, Grad-CAM Explainability, Medical Imaging |
