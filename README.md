@@ -1,4 +1,4 @@
-# Sabeeh — Machine Learning & Backend Engineer
+# Sabeeh — Fintech and Backend Engineer
 
 **Scalable AI Systems · Medical Imaging · Production Deployments**
 
