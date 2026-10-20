@@ -1,61 +1,102 @@
-# Sabeeh — Fintech and Backend Engineer
+# Sabeeh Ahmad — Data Analyst & FinTech Engineer
 
-**Scalable AI Systems · Medical Imaging · Production Deployments**
+**Algorithmic Trading Engines · Stochastic Financial Models · Production Systems**
 
-I build end-to-end ML pipelines — from model architecture to cloud deployment. My focus is on high-performance computer vision systems and robust backend infrastructure that ships to production.
-
-Available for freelance work in ML development, data pipelines, and backend systems.
+📍 Bangalore, India &nbsp;|&nbsp; 🌐 [sabeeh.in](https://sabeeh.in) &nbsp;|&nbsp; 🟢 Open to fintech roles, quantitative projects, and collaborations
 
 ---
 
-## Technical Expertise
+I'm a **Data Analyst and FinTech Engineer** who builds where quantitative modeling meets production execution. I spend most of my time engineering systematic algorithmic trading engines, stochastic financial simulators, and dashboards that turn complex market signals into reliable products.
 
-| Domain | Stack |
-|--------|-------|
-| **Machine Learning** | PyTorch, scikit-learn, EfficientNet, ResNet, DenseNet, CBAM/SE Attention |
-| **Computer Vision** | CNNs, Ensemble Models, Grad-CAM Explainability, Medical Imaging |
-| **Data Engineering** | Pandas, NumPy, SQL, Pipeline Optimization |
-| **Backend & APIs** | Python, Flask, REST API Design, C/C++ |
-| **Cloud & DevOps** | Google Cloud Platform, Cloud Run, Docker, Git |
-| **Systems** | Linux, Shell Scripting, Bash Automation |
+The through-line in my work is clarity: deterministic rules, clean execution pipelines, and systems engineered to run reliably in live production environments.
 
----
+### ⚡ Highlights
 
-## Projects
-
-### 🩺 Breast Cancer Detection System
-**Problem:** High false-negative rates in early-stage mammography screening.  
-**Solution:** Ensemble model combining EfficientNetB4, ResNet152, and DenseNet201 with CBAM and SE attention mechanisms trained on MIAS and INbreast datasets.  
-**Result:** Targeting state-of-the-art 97.59% diagnostic accuracy (Luong et al., 2025 benchmark).
-
-`PyTorch` `Ensemble Learning` `Attention Mechanisms` `Medical AI` `Computer Vision`
+- **6+** Production projects shipped
+- **24/7** Cloud daemon uptime
+- **OCI & GCP** Cloud deployments
 
 ---
 
-### 🔬 BioSense — AI Diagnostics API
-**Solution:** End-to-end medical image classification pipeline with Grad-CAM explainability for model transparency.  
-**Implementation:** Containerized with Docker, deployed on GCP Cloud Run — scalable, low-latency inference via REST API.
+## 🛠️ Technical Expertise
 
-`Flask` `Docker` `GCP Cloud Run` `Grad-CAM` `Model Explainability`
-
----
-
-### ♻️ FoodLoop — Sustainability Platform
-**Solution:** Logistics platform connecting food industry surplus with NGOs to reduce waste at scale.
-
-`Systems Design` `JavaScript` `Social Impact`
+| Domain | Stack & Frameworks |
+|---|---|
+| **Quantitative & FinTech** | Market Microstructure, ICT Frameworks, Kotak Neo API, Monte Carlo Simulators, Risk Models, Order Routing |
+| **Data Analysis & Modeling** | Python, Pandas, NumPy, Matplotlib, Seaborn, Statistical Modeling, scikit-learn |
+| **Databases & Pipelines** | SQL, PostgreSQL, ETL Pipelines, Time-Series Data, Data Modeling, Data Cleaning |
+| **Systems & Infrastructure** | Linux Daemons, OCI (Oracle Cloud), Docker, GCP Cloud Run, Git & Bash Automation, REST APIs |
 
 ---
 
-## GitHub Stats
+## 🚀 Featured Systems & Projects
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Lemontree7981&show_icons=true&theme=dark&hide_border=true&hide_title=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lemontree7981&layout=compact&theme=dark&hide_border=true)
+### 📈 [Quantitative ICT Intraday Trading Engine (NSE)](https://sabeeh.in/blog/ict-algo-trading-engine)
+- **Problem:** Intraday equity execution requires millisecond discipline, rigorous risk constraints, and zero emotional bias.
+- **Solution:** Autonomous algorithmic trading engine engineered for benchmark National Stock Exchange (NSE) high-beta equities (`BAJAJFINSV`, `DIVISLAB`, `JUBLFOOD`).
+- **Architecture:** Exploits market microstructure liquidity sweeps, 1.30x institutional displacement filters, and fair value gap (FVG) retests with intrabar LTP exit triggers, 2.25:1 profit-to-risk ratio, and portfolio concurrency locking.
+- **Stack:** `Python` `Kotak Neo API` `Pandas` `OCI Linux Daemon` `Bash`
+- 🔗 [Read Architecture Case Study ↗](https://sabeeh.in/blog/ict-algo-trading-engine)
 
 ---
 
-## Let's Work Together
+### 🎲 [finTWIN — AI Financial Digital Twin](https://finance.sabeeh.in)
+- **Problem:** Static financial calculators fail to account for market variance and long-term uncertainty.
+- **Solution:** High-fidelity, client-side Monte Carlo simulator designed to model long-term wealth trajectories. Provides real-time probabilistic outcomes and personalized financial health scoring through rigorous stochastic modeling.
+- **Stack:** `Vanilla JS` `HTML5 Canvas` `Monte Carlo Engine` `Stochastic Modeling`
+- 🔗 [Live App ↗](https://finance.sabeeh.in) · [Case Study ↗](https://sabeeh.in/blog/fintwin-ai-financial-twin)
 
-Open to freelance projects involving ML model development, computer vision, data analysis pipelines, and backend systems.
+---
 
-📧 [Lemontree7981@gmail.com](mailto:Lemontree7981@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/sabeeh-ahmad-540655315)
+### 📊 [Fintech Churn Intelligence Dashboard](https://dashboard.sabeeh.in)
+- **Problem:** Neobanks lose early users without visibility into warning signals before churn occurs.
+- **Solution:** Live dashboard predicting at-risk customer segments using UPI transaction behavior, CIBIL scores, and inactivity signals for Indian neobanks. Designed so every chart drives a retention intervention.
+- **Stack:** `Python` `Plotly Dash` `Pandas` `Docker` `Railway`
+- 🔗 [Live Demo ↗](https://dashboard.sabeeh.in) · [Case Study ↗](https://sabeeh.in/churn-dashboard)
+
+---
+
+### 🔬 [BioSense — AI Diagnostics API](https://github.com/Lemontree7981/StressMonitoring)
+- **Solution:** Medical image classification API with Grad-CAM explainability for visual interpretability and model transparency.
+- **Implementation:** Containerized with Docker and deployed on GCP Cloud Run for low-latency, scalable REST inference.
+- **Stack:** `Flask` `Docker` `GCP Cloud Run` `Grad-CAM`
+- 🔗 [GitHub Repository ↗](https://github.com/Lemontree7981/StressMonitoring)
+
+---
+
+### ⚡ [File Splitter CLI](https://github.com/Lemontree7981/File-Splitter)
+- **Solution:** Minimal Python command-line utility to split large files into manageable chunks and merge them back with complete integrity, built for working with large datasets on constrained systems.
+- **Stack:** `Python` `CLI` `File I/O`
+- 🔗 [GitHub Repository ↗](https://github.com/Lemontree7981/File-Splitter)
+
+---
+
+## 📝 Technical Writing & Research
+
+I write in-depth architecture breakdowns and technical case studies on quantitative finance, market microstructure, and system design:
+
+- [Quantitative ICT Intraday Trading Engine Architecture](https://sabeeh.in/blog/ict-algo-trading-engine)
+- [finTWIN: High-Fidelity Monte Carlo Financial Simulation](https://sabeeh.in/blog/fintwin-ai-financial-twin)
+- [Indian Neobank Churn Intelligence Analysis](https://sabeeh.in/churn-dashboard)
+
+Explore all articles at [sabeeh.in/blog](https://sabeeh.in/blog).
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lemontree7981&show_icons=true&theme=dark&hide_border=true&hide_title=true" alt="Sabeeh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemontree7981&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+Open to quantitative finance roles, fintech engineering collaborations, and research discussions.
+
+- 🌐 **Portfolio & Case Studies:** [sabeeh.in](https://sabeeh.in)
+- 💼 **LinkedIn:** [linkedin.com/in/sabeeh-ahmad-540655315](https://www.linkedin.com/in/sabeeh-ahmad-540655315)
+- 📧 **Email:** [Lemontree7981@gmail.com](mailto:Lemontree7981@gmail.com)
+- 🐙 **GitHub:** [@Lemontree7981](https://github.com/Lemontree7981)
