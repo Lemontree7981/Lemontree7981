@@ -224,9 +224,9 @@ I document quantitative system design, execution mechanics, and stochastic model
 
 <div align="center">
 
-  <!-- 502 Contributions Calendar -->
+  <!-- Custom FinTech Styled 2025 Contribution Calendar Archive -->
   <a href="https://github.com/Lemontree7981">
-    <img src="./assets/contribution-calendar.png" alt="Sabeeh Ahmad's GitHub Contribution Calendar — 502 contributions in 2026" width="100%" />
+    <img src="./assets/contribution-calendar-2025.svg" alt="Sabeeh Ahmad — 361 Contributions in 2025" width="100%" />
   </a>
 
   <br /><br />
