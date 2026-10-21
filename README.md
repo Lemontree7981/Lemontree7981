@@ -231,38 +231,10 @@ I document quantitative system design, execution mechanics, and stochastic model
 
   <br /><br />
 
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <!-- 2026 Engineering Velocity Card -->
-      <td align="center" valign="middle" width="380">
-        <table border="0" cellpadding="10" cellspacing="0" width="100%">
-          <tr>
-            <td align="center">
-              <h3>⚡ 2026 Engineering Velocity</h3>
-              <p>
-                <img src="https://img.shields.io/badge/2026_Contributions-502_Active-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="502 Contributions" />
-              </p>
-              <p>
-                <img src="https://img.shields.io/badge/Production_Daemons-24%2F7_Uptime-0969da?style=for-the-badge&logo=oracle&logoColor=white" alt="24/7 Daemons" />
-              </p>
-              <p>
-                <img src="https://img.shields.io/badge/Repositories-Public_%26_Private_Eng-d9381e?style=for-the-badge&logo=git&logoColor=white" alt="Public and Private Repos" />
-              </p>
-              <p>
-                <sub><i>Active daily commits across quantitative engines & data systems</i></sub>
-              </p>
-            </td>
-          </tr>
-        </table>
-      </td>
-      <!-- Top Languages Card -->
-      <td align="center" valign="middle" width="380">
-        <a href="https://github.com/Lemontree7981">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemontree7981&layout=compact&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=8" height="195" alt="Lemontree7981's Top Languages" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <!-- Top Languages Card -->
+  <a href="https://github.com/Lemontree7981">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemontree7981&layout=compact&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=8" height="195" alt="Lemontree7981's Top Languages" />
+  </a>
 
 </div>
 
