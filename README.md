@@ -206,15 +206,17 @@
 
 ---
 
-## 📝 Technical Writing & Research
+## 📝 Technical Writing & Architecture Deep Dives
 
-I write in-depth architecture breakdowns and technical case studies on quantitative finance, market microstructure, and system design:
+I document quantitative system design, execution mechanics, and stochastic modeling architectures:
 
-- [Quantitative ICT Intraday Trading Engine Architecture](https://sabeeh.in/blog/ict-algo-trading-engine)
-- [finTWIN: High-Fidelity Monte Carlo Financial Simulation](https://sabeeh.in/blog/fintwin-ai-financial-twin)
-- [Indian Neobank Churn Intelligence Analysis](https://sabeeh.in/churn-dashboard)
+| Architecture Case Study | Focus Domain | Direct Link |
+|:---|:---|:---:|
+| **Autonomous ICT Intraday Algorithmic Trading Architecture** | Market Microstructure, Liquidity Sweeps & Execution | [Read Case Study ↗](https://sabeeh.in/blog/ict-algo-trading-engine) |
+| **finTWIN: Client-Side Monte Carlo Wealth Simulation Engine** | Stochastic Modeling & Real-Time Distributions | [Read Case Study ↗](https://sabeeh.in/blog/fintwin-ai-financial-twin) |
+| **Neobank Churn Intelligence & UPI Behavior Signals** | Behavioral Feature Engineering & Churn Risk Cohorts | [View Analysis ↗](https://sabeeh.in/churn-dashboard) |
 
-Explore all articles at [sabeeh.in/blog](https://sabeeh.in/blog).
+👉 *Read all architectural breakdowns and research notes at [sabeeh.in/blog](https://sabeeh.in/blog).*
 
 ---
 
@@ -251,8 +253,23 @@ Explore all articles at [sabeeh.in/blog](https://sabeeh.in/blog).
 
 ## 🤝 Let's Connect
 
-Open to quantitative finance roles, fintech engineering collaborations, and research discussions.
+<div align="center">
 
-- 🌐 **Portfolio & Case Studies:** [sabeeh.in](https://sabeeh.in)
-- 📧 **Email:** [Lemontree7981@gmail.com](mailto:Lemontree7981@gmail.com)
-- 🐙 **GitHub:** [@Lemontree7981](https://github.com/Lemontree7981)
+  <p>Open to quantitative finance roles, fintech engineering collaborations, and research discussions.</p>
+
+  <p>
+    <a href="https://sabeeh.in">
+      <img src="https://img.shields.io/badge/Portfolio-sabeeh.in-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="mailto:Lemontree7981@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Lemontree7981@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/Lemontree7981">
+      <img src="https://img.shields.io/badge/GitHub-Lemontree7981-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+
+  <br />
+  <p><sub><i>Deterministic rules. Clean execution pipelines. Production reliability.</i></sub></p>
+
+</div>
