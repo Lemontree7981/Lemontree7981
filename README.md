@@ -89,45 +89,120 @@
 
 ---
 
-## 🚀 Featured Systems & Projects
+## 🚀 Featured Engineering Systems
 
-### 📈 [Quantitative ICT Intraday Trading Engine (NSE)](https://sabeeh.in/blog/ict-algo-trading-engine)
-- **Problem:** Intraday equity execution requires millisecond discipline, rigorous risk constraints, and zero emotional bias.
-- **Solution:** Autonomous algorithmic trading engine engineered for benchmark National Stock Exchange (NSE) high-beta equities (`BAJAJFINSV`, `DIVISLAB`, `JUBLFOOD`).
-- **Architecture:** Exploits market microstructure liquidity sweeps, 1.30x institutional displacement filters, and fair value gap (FVG) retests with intrabar LTP exit triggers, 2.25:1 profit-to-risk ratio, and portfolio concurrency locking.
-- **Stack:** `Python` `Kotak Neo API` `Pandas` `OCI Linux Daemon` `Bash`
-- 🔗 [Read Architecture Case Study ↗](https://sabeeh.in/blog/ict-algo-trading-engine)
+<table>
+  <tr>
+    <td width="100%">
+      <h3>📈 <a href="https://sabeeh.in/blog/ict-algo-trading-engine">Quantitative ICT Intraday Trading Engine (NSE)</a></h3>
+      <p><em>Autonomous systematic algorithmic execution engine engineered for benchmark National Stock Exchange (NSE) high-beta equities (BAJAJFINSV, DIVISLAB, JUBLFOOD).</em></p>
+      <ul>
+        <li><strong>Microstructure Exploitation:</strong> Real-time detection of liquidity sweeps, 1.30x institutional displacement filters, and fair value gap (FVG) retests.</li>
+        <li><strong>Execution & Capital Protection:</strong> Intrabar LTP exit triggers, strict 2.25:1 profit-to-risk ratio, and concurrency locking across multi-asset portfolios.</li>
+        <li><strong>Production Infrastructure:</strong> Running 24/7 as an autonomous Linux system daemon on Oracle Cloud Infrastructure (OCI) with zero human intervention.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Kotak_Neo_API-002E6E?style=flat-square" alt="Kotak Neo API" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+        <img src="https://img.shields.io/badge/Oracle_Cloud_(OCI)-F80000?style=flat-square&logo=oracle&logoColor=white" alt="OCI" />
+        <img src="https://img.shields.io/badge/Linux_Daemon-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux Daemon" />
+      </p>
+      <p>
+        <a href="https://sabeeh.in/blog/ict-algo-trading-engine"><strong>Read Architecture Case Study ↗</strong></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
----
+<table>
+  <tr>
+    <td width="100%">
+      <h3>🎲 <a href="https://finance.sabeeh.in">finTWIN — AI Financial Digital Twin</a></h3>
+      <p><em>High-fidelity, client-side Monte Carlo wealth engine and stochastic simulator.</em></p>
+      <ul>
+        <li><strong>Stochastic Modeling:</strong> Simulates multi-decade wealth trajectories under varying market regimes, inflation shocks, and asset return distributions.</li>
+        <li><strong>Real-Time Analytics:</strong> Computes probabilistic percentile bands (10th, 50th, 90th percentiles) and delivers interactive financial health scoring rendered smoothly on HTML5 Canvas.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/HTML5_Canvas-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5 Canvas" />
+        <img src="https://img.shields.io/badge/Monte_Carlo-6C5CE7?style=flat-square" alt="Monte Carlo" />
+        <img src="https://img.shields.io/badge/Stochastic_Sim-10AC84?style=flat-square" alt="Stochastic Sim" />
+      </p>
+      <p>
+        <a href="https://finance.sabeeh.in"><strong>Launch Live App ↗</strong></a> &nbsp;•&nbsp;
+        <a href="https://sabeeh.in/blog/fintwin-ai-financial-twin"><strong>Read Architecture Case Study ↗</strong></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-### 🎲 [finTWIN — AI Financial Digital Twin](https://finance.sabeeh.in)
-- **Problem:** Static financial calculators fail to account for market variance and long-term uncertainty.
-- **Solution:** High-fidelity, client-side Monte Carlo simulator designed to model long-term wealth trajectories. Provides real-time probabilistic outcomes and personalized financial health scoring through rigorous stochastic modeling.
-- **Stack:** `Vanilla JS` `HTML5 Canvas` `Monte Carlo Engine` `Stochastic Modeling`
-- 🔗 [Live App ↗](https://finance.sabeeh.in) · [Case Study ↗](https://sabeeh.in/blog/fintwin-ai-financial-twin)
+<table>
+  <tr>
+    <td width="100%">
+      <h3>📊 <a href="https://dashboard.sabeeh.in">Fintech Churn Intelligence Dashboard</a></h3>
+      <p><em>Real-time churn risk detection platform built for early-stage Indian neobanks.</em></p>
+      <ul>
+        <li><strong>Behavioral Signals:</strong> Surfaces churn vulnerabilities using UPI transaction frequency, early balance depletion rates, and inactivity windows combined with CIBIL score brackets.</li>
+        <li><strong>Targeted Interventions:</strong> Automatically isolates high-value, at-risk cohorts (e.g. 74 users with early inactivity warnings but strong CIBIL > 650) to inform proactive retention campaigns.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Plotly_Dash-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly Dash" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway" />
+      </p>
+      <p>
+        <a href="https://dashboard.sabeeh.in"><strong>Explore Live Dashboard ↗</strong></a> &nbsp;•&nbsp;
+        <a href="https://sabeeh.in/churn-dashboard"><strong>View Case Study ↗</strong></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
----
+<table>
+  <tr>
+    <td width="100%">
+      <h3>🔬 <a href="https://github.com/Lemontree7981/StressMonitoring">BioSense — AI Diagnostics API</a></h3>
+      <p><em>Medical image classification pipeline with Grad-CAM explainability for clinical interpretability.</em></p>
+      <ul>
+        <li><strong>Serverless Scale:</strong> Containerized with Docker and deployed serverless on Google Cloud Platform (Cloud Run) for low-latency REST inference.</li>
+        <li><strong>Explainable AI:</strong> Integrates Grad-CAM visual heatmaps overlaying diagnostic attention regions to provide transparent model decisions.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/GCP_Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP Cloud Run" />
+        <img src="https://img.shields.io/badge/Grad--CAM-FF6F00?style=flat-square" alt="Grad-CAM" />
+      </p>
+      <p>
+        <a href="https://github.com/Lemontree7981/StressMonitoring"><strong>View Repository ↗</strong></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-### 📊 [Fintech Churn Intelligence Dashboard](https://dashboard.sabeeh.in)
-- **Problem:** Neobanks lose early users without visibility into warning signals before churn occurs.
-- **Solution:** Live dashboard predicting at-risk customer segments using UPI transaction behavior, CIBIL scores, and inactivity signals for Indian neobanks. Designed so every chart drives a retention intervention.
-- **Stack:** `Python` `Plotly Dash` `Pandas` `Docker` `Railway`
-- 🔗 [Live Demo ↗](https://dashboard.sabeeh.in) · [Case Study ↗](https://sabeeh.in/churn-dashboard)
-
----
-
-### 🔬 [BioSense — AI Diagnostics API](https://github.com/Lemontree7981/StressMonitoring)
-- **Solution:** Medical image classification API with Grad-CAM explainability for visual interpretability and model transparency.
-- **Implementation:** Containerized with Docker and deployed on GCP Cloud Run for low-latency, scalable REST inference.
-- **Stack:** `Flask` `Docker` `GCP Cloud Run` `Grad-CAM`
-- 🔗 [GitHub Repository ↗](https://github.com/Lemontree7981/StressMonitoring)
-
----
-
-### ⚡ [File Splitter CLI](https://github.com/Lemontree7981/File-Splitter)
-- **Solution:** Minimal Python command-line utility to split large files into manageable chunks and merge them back with complete integrity, built for working with large datasets on constrained systems.
-- **Stack:** `Python` `CLI` `File I/O`
-- 🔗 [GitHub Repository ↗](https://github.com/Lemontree7981/File-Splitter)
+<table>
+  <tr>
+    <td width="100%">
+      <h3>⚡ <a href="https://github.com/Lemontree7981/File-Splitter">File Splitter CLI</a></h3>
+      <p><em>Minimalist Python command-line utility for chunking and reconstructing massive datasets.</em></p>
+      <ul>
+        <li>Zero third-party dependencies, built for streaming large files across memory-constrained environments with SHA validation.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/CLI-4EAA25?style=flat-square" alt="CLI" />
+        <img src="https://img.shields.io/badge/File_I%2FO-6C757D?style=flat-square" alt="File I/O" />
+      </p>
+      <p>
+        <a href="https://github.com/Lemontree7981/File-Splitter"><strong>View Repository ↗</strong></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
