@@ -224,6 +224,13 @@ I document quantitative system design, execution mechanics, and stochastic model
 
 <div align="center">
 
+  <!-- 502 Contributions Calendar -->
+  <a href="https://github.com/Lemontree7981">
+    <img src="./assets/contribution-calendar.png" alt="Sabeeh Ahmad's GitHub Contribution Calendar — 502 contributions in 2026" width="100%" />
+  </a>
+
+  <br /><br />
+
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <!-- 2026 Engineering Velocity Card -->
@@ -233,7 +240,7 @@ I document quantitative system design, execution mechanics, and stochastic model
             <td align="center">
               <h3>⚡ 2026 Engineering Velocity</h3>
               <p>
-                <img src="https://img.shields.io/badge/2026_Contributions-500%2B_Active-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="500+ Contributions" />
+                <img src="https://img.shields.io/badge/2026_Contributions-502_Active-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="502 Contributions" />
               </p>
               <p>
                 <img src="https://img.shields.io/badge/Production_Daemons-24%2F7_Uptime-0969da?style=for-the-badge&logo=oracle&logoColor=white" alt="24/7 Daemons" />
@@ -256,9 +263,6 @@ I document quantitative system design, execution mechanics, and stochastic model
       </td>
     </tr>
   </table>
-
-  <br />
-  <p><sub>👇 <i>Explore the complete live 500+ contribution heat map below</i></sub></p>
 
 </div>
 
