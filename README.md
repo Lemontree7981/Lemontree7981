@@ -1,20 +1,54 @@
-# Sabeeh Ahmad — Data Analyst & FinTech Engineer
+<div align="center">
 
-**Algorithmic Trading Engines · Stochastic Financial Models · Production Systems**
+  <h1>Hi, I'm Sabeeh Ahmad <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave"></h1>
 
-📍 Bangalore, India &nbsp;|&nbsp; 🌐 [sabeeh.in](https://sabeeh.in) &nbsp;|&nbsp; 🟢 Open to fintech roles, quantitative projects, and collaborations
+  <a href="https://sabeeh.in">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=560&lines=Data+Analyst+%26+FinTech+Engineer;Systematic+ICT+Intraday+Trading+Engines;Stochastic+Monte+Carlo+Wealth+Simulators;Indian+Neobank+Churn+Intelligence" alt="Sabeeh Ahmad — Role Typing SVG" />
+  </a>
 
----
+  <p>
+    <strong>📍 Bangalore, India</strong> &nbsp;•&nbsp;
+    <a href="https://sabeeh.in">🌐 <strong>sabeeh.in</strong></a> &nbsp;•&nbsp;
+    <a href="mailto:Lemontree7981@gmail.com">✉️ <strong>Lemontree7981@gmail.com</strong></a>
+  </p>
 
-I'm a **Data Analyst and FinTech Engineer** who builds where quantitative modeling meets production execution. I spend most of my time engineering systematic algorithmic trading engines, stochastic financial simulators, and dashboards that turn complex market signals into reliable products.
+  <p>
+    <a href="https://sabeeh.in"><img src="https://img.shields.io/badge/Status-Open%20to%20FinTech%20%26%20Quant%20Roles-2ea44f?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status" /></a>
+    <img src="https://img.shields.io/badge/Focus-Trading%20Systems%20%26%20Data-0969da?style=for-the-badge&logo=apachespark&logoColor=white" alt="Focus" />
+    <img src="https://img.shields.io/badge/Location-Bangalore%2C%20IN-d9381e?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  </p>
 
-The through-line in my work is clarity: deterministic rules, clean execution pipelines, and systems engineered to run reliably in live production environments.
+</div>
 
-### ⚡ Highlights
+<br />
 
-- **6+** Production projects shipped
-- **24/7** Cloud daemon uptime
-- **OCI & GCP** Cloud deployments
+> **I turn complex market data into deterministic decisions.**  
+> Focused on systematic intraday trading engines, stochastic Monte Carlo wealth simulators, and production data pipelines. I engineer systems where quantitative rigor meets low-latency, 24/7 cloud execution.
+
+<br />
+
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center" width="180">
+        <h3>🚀 6+</h3>
+        <p><b>Shipped Products</b></p>
+      </td>
+      <td align="center" width="180">
+        <h3>⚡ 24/7</h3>
+        <p><b>Cloud Daemon Uptime</b></p>
+      </td>
+      <td align="center" width="180">
+        <h3>☁️ OCI & GCP</h3>
+        <p><b>Cloud Deployments</b></p>
+      </td>
+      <td align="center" width="180">
+        <h3>📈 NSE</h3>
+        <p><b>Intraday Microstructure</b></p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
