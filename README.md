@@ -218,11 +218,33 @@ Explore all articles at [sabeeh.in/blog](https://sabeeh.in/blog).
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics & Activity Dashboard
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lemontree7981&show_icons=true&theme=dark&hide_border=true&hide_title=true&include_all_commits=true&cache_seconds=86400" alt="Sabeeh's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemontree7981&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://github.com/Lemontree7981">
+          <img src="https://github-readme-stats.vercel.app/api?username=Lemontree7981&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=8" height="195" alt="Lemontree7981's GitHub Stats" />
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://github.com/Lemontree7981">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lemontree7981&theme=github-dark-blue&hide_border=false&background=0d1117&border=30363d&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&border_radius=8" height="195" alt="Lemontree7981's Streak Stats" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center" valign="middle">
+        <br />
+        <a href="https://github.com/Lemontree7981">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemontree7981&layout=compact&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=8" height="185" alt="Lemontree7981's Top Languages" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
 </div>
 
 ---
