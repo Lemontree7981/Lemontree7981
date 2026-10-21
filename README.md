@@ -220,32 +220,45 @@ I document quantitative system design, execution mechanics, and stochastic model
 
 ---
 
-## 📊 GitHub Analytics & Activity Dashboard
+## 📊 GitHub Analytics & Engineering Activity
 
 <div align="center">
 
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
-      <td align="center" valign="middle">
-        <a href="https://github.com/Lemontree7981">
-          <img src="https://github-readme-stats.vercel.app/api?username=Lemontree7981&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=8" height="195" alt="Lemontree7981's GitHub Stats" />
-        </a>
+      <!-- 2026 Engineering Velocity Card -->
+      <td align="center" valign="middle" width="380">
+        <table border="0" cellpadding="10" cellspacing="0" width="100%">
+          <tr>
+            <td align="center">
+              <h3>⚡ 2026 Engineering Velocity</h3>
+              <p>
+                <img src="https://img.shields.io/badge/2026_Contributions-500%2B_Active-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="500+ Contributions" />
+              </p>
+              <p>
+                <img src="https://img.shields.io/badge/Production_Daemons-24%2F7_Uptime-0969da?style=for-the-badge&logo=oracle&logoColor=white" alt="24/7 Daemons" />
+              </p>
+              <p>
+                <img src="https://img.shields.io/badge/Repositories-Public_%26_Private_Eng-d9381e?style=for-the-badge&logo=git&logoColor=white" alt="Public and Private Repos" />
+              </p>
+              <p>
+                <sub><i>Active daily commits across quantitative engines & data systems</i></sub>
+              </p>
+            </td>
+          </tr>
+        </table>
       </td>
-      <td align="center" valign="middle">
+      <!-- Top Languages Card -->
+      <td align="center" valign="middle" width="380">
         <a href="https://github.com/Lemontree7981">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lemontree7981&theme=github-dark-blue&hide_border=false&background=0d1117&border=30363d&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&border_radius=8" height="195" alt="Lemontree7981's Streak Stats" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center" valign="middle">
-        <br />
-        <a href="https://github.com/Lemontree7981">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemontree7981&layout=compact&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=8" height="185" alt="Lemontree7981's Top Languages" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemontree7981&layout=compact&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=8" height="195" alt="Lemontree7981's Top Languages" />
         </a>
       </td>
     </tr>
   </table>
+
+  <br />
+  <p><sub>👇 <i>Explore the complete live 500+ contribution heat map below</i></sub></p>
 
 </div>
 
