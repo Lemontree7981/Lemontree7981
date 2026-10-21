@@ -86,8 +86,8 @@ Explore all articles at [sabeeh.in/blog](https://sabeeh.in/blog).
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lemontree7981&show_icons=true&theme=dark&hide_border=true&hide_title=true" alt="Sabeeh's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemontree7981&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lemontree7981&show_icons=true&theme=dark&hide_border=true&hide_title=true&include_all_commits=true&cache_seconds=86400" alt="Sabeeh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemontree7981&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 </div>
 
 ---
@@ -97,6 +97,5 @@ Explore all articles at [sabeeh.in/blog](https://sabeeh.in/blog).
 Open to quantitative finance roles, fintech engineering collaborations, and research discussions.
 
 - 🌐 **Portfolio & Case Studies:** [sabeeh.in](https://sabeeh.in)
-- 💼 **LinkedIn:** [linkedin.com/in/sabeeh-ahmad-540655315](https://www.linkedin.com/in/sabeeh-ahmad-540655315)
 - 📧 **Email:** [Lemontree7981@gmail.com](mailto:Lemontree7981@gmail.com)
 - 🐙 **GitHub:** [@Lemontree7981](https://github.com/Lemontree7981)
