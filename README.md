@@ -52,14 +52,40 @@
 
 ---
 
-## 🛠️ Technical Expertise
+## 🛠️ Technical Stack & Domain Expertise
 
-| Domain | Stack & Frameworks |
-|---|---|
-| **Quantitative & FinTech** | Market Microstructure, ICT Frameworks, Kotak Neo API, Monte Carlo Simulators, Risk Models, Order Routing |
-| **Data Analysis & Modeling** | Python, Pandas, NumPy, Matplotlib, Seaborn, Statistical Modeling, scikit-learn |
-| **Databases & Pipelines** | SQL, PostgreSQL, ETL Pipelines, Time-Series Data, Data Modeling, Data Cleaning |
-| **Systems & Infrastructure** | Linux Daemons, OCI (Oracle Cloud), Docker, GCP Cloud Run, Git & Bash Automation, REST APIs |
+<div align="center">
+
+#### Quantitative Finance & Trading Systems
+<p>
+  <img src="https://img.shields.io/badge/Kotak_Neo_API-002E6E?style=for-the-badge&logo=reliance&logoColor=white" alt="Kotak Neo API" />
+  <img src="https://img.shields.io/badge/Market_Microstructure-0A84FF?style=for-the-badge&logo=blockchaindotcom&logoColor=white" alt="Market Microstructure" />
+  <img src="https://img.shields.io/badge/Monte_Carlo_Engine-6C5CE7?style=for-the-badge" alt="Monte Carlo Engine" />
+  <img src="https://img.shields.io/badge/ICT_Frameworks-10AC84?style=for-the-badge" alt="ICT Frameworks" />
+  <img src="https://img.shields.io/badge/Risk_%26_Order_Routing-FF7675?style=for-the-badge" alt="Risk & Order Routing" />
+</p>
+
+#### Data Engineering, Analytics & Modeling
+<p>
+  <img src="https://img.shields.io/badge/Python_3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Plotly_Dash-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly Dash" />
+</p>
+
+#### Cloud, Systems & Deployment
+<p>
+  <img src="https://img.shields.io/badge/Oracle_Cloud_(OCI)-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud" />
+  <img src="https://img.shields.io/badge/GCP_Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP Cloud Run" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux_Daemons-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Daemons" />
+  <img src="https://img.shields.io/badge/Bash_Automation-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+</div>
 
 ---
 
