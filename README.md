@@ -224,17 +224,22 @@ I document quantitative system design, execution mechanics, and stochastic model
 
 <div align="center">
 
-  <!-- Custom FinTech Styled 2025 Contribution Calendar Archive -->
-  <a href="https://github.com/Lemontree7981">
-    <img src="./assets/contribution-calendar-2025.svg" alt="Sabeeh Ahmad — 209 Contributions in 2025" width="100%" />
-  </a>
-
-  <br /><br />
-
-  <!-- Top Languages Card -->
-  <a href="https://github.com/Lemontree7981">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemontree7981&layout=compact&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=8" height="195" alt="Lemontree7981's Top Languages" />
-  </a>
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <!-- Annual Git Commit Summary -->
+      <td align="center" valign="middle" width="380">
+        <a href="https://github.com/Lemontree7981">
+          <img src="./assets/annual-commit-summary.svg" alt="Sabeeh Ahmad — Annual Git Commit Summary" height="195" />
+        </a>
+      </td>
+      <!-- Top Languages Card -->
+      <td align="center" valign="middle" width="380">
+        <a href="https://github.com/Lemontree7981">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemontree7981&layout=compact&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=8" height="195" alt="Lemontree7981's Top Languages" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
 </div>
 

@@ -1,0 +1,54 @@
+<svg width="380" height="195" viewBox="0 0 380 195" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="card-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117" />
+      <stop offset="100%" stop-color="#111822" />
+    </linearGradient>
+    <linearGradient id="accent-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff" />
+      <stop offset="100%" stop-color="#39d353" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .border { stroke: #30363d; stroke-width: 1px; rx: 8px; }
+    .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 700; fill: #58a6ff; }
+    .subtitle { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif; font-size: 11px; fill: #8b949e; }
+    .metric-value { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; font-size: 22px; font-weight: 700; fill: #ffffff; }
+    .metric-label { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif; font-size: 10.5px; fill: #8b949e; text-transform: uppercase; letter-spacing: 0.5px; }
+    .pill { rx: 4px; fill: #161b22; stroke: #30363d; stroke-width: 1px; }
+    .pill-text { font-family: 'Fira Code', monospace; font-size: 11px; fill: #7ee787; font-weight: 600; }
+  </style>
+
+  <!-- Container -->
+  <rect x="0.5" y="0.5" width="379" height="194" fill="url(#card-bg)" class="border" />
+
+  <!-- Header -->
+  <g transform="translate(20, 20)">
+    <rect x="0" y="0" width="3" height="16" fill="#58a6ff" rx="1.5" />
+    <text x="10" y="13" class="title">Annual Git Commit Summary</text>
+    <text x="10" y="28" class="subtitle">Verified ledger across all algorithmic &amp; core repositories</text>
+  </g>
+
+  <!-- Metric 1: 2025 Total Contributions -->
+  <g transform="translate(20, 70)">
+    <rect x="0" y="0" width="162" height="52" class="pill" />
+    <text x="12" y="25" class="metric-value">209</text>
+    <text x="12" y="41" class="metric-label">2025 Total Commits</text>
+  </g>
+
+  <!-- Metric 2: Active Deploy Days -->
+  <g transform="translate(198, 70)">
+    <rect x="0" y="0" width="162" height="52" class="pill" />
+    <text x="12" y="25" class="metric-value">116</text>
+    <text x="12" y="41" class="metric-label">2025 Active Days</text>
+  </g>
+
+  <!-- Bottom Details -->
+  <g transform="translate(20, 134)">
+    <rect x="0" y="0" width="340" height="44" class="pill" />
+    <circle cx="18" cy="22" r="4" fill="#39d353" />
+    <text x="30" y="19" class="pill-text">55.5% Annual Consistency</text>
+    <text x="30" y="33" style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 10px; fill: #8b949e;">Continuous production delivery across cloud &amp; market engines</text>
+  </g>
+</svg>
